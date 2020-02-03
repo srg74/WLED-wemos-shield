@@ -4,3 +4,4 @@
 .vscode
 !.vscode/extensions.json
 .code-workspace
+.gitignore
