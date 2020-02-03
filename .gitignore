@@ -3,5 +3,5 @@
 .piolibdeps
 .vscode
 !.vscode/extensions.json
-.code-workspace
+github.code-workspace
 .gitignore
