@@ -6,7 +6,7 @@
 ## Wi-Fi LED controller based on Wemos D1 Mini for WLED firmware.
 ![Controller](resources/WLED_Wemos_top.png)
 ## PCB ordering
--   [Ordering](https://www.pcbway.com/project/shareproject/WLED_wemos_shield.html) - $5 10 PCBs very good quality.
+-   [Ordering](https://www.pcbway.com/project/shareproject/WLED_wemos_shield.html) - $5 for 10 PCBs very good quality.
 ```
 Wi-Fi LED controller with following features
 ```
