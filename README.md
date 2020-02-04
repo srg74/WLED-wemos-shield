@@ -15,7 +15,7 @@ Wi-Fi LED controller with following features
 -   Power selector (e.g 5VDC or 12VDC);
 -   Can be configured for 3 wire and 4 wire addressable LED strips;
 -   Button options (depend on type of addressable LED strip);
--   Relay for power saving feature (without disconnecting power from LED strip still consuming mA per LED even if none of LEDs is lit);
+-   Relay for power saving feature (without disconnecting power from LED strip it still consuming mA per LED even if none of LEDs is lit);
 
 ## Firmware used
 -   [WLED repository](https://github.com/Aircoookie/WLED) - Main WLED repository
