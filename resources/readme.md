@@ -1,5 +1,5 @@
 # PCB ordering
--   [Ordering](https://pcbway.com) - $5 10 PCBs in no time :) Parts list in BOM.
+-   [Ordering](https://www.pcbway.com/project/shareproject/WLED_wemos_shield.html) - $5 10 PCBs in no time :) Parts list in BOM.
 # Shield PCBs and scematic
 ## PCB
 ![PCB](/resources/WLED_Wemos_top.png)
