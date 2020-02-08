@@ -1,4 +1,5 @@
 # WLED-wemos-shield
+[![](https://img.shields.io/github/v/release/srg74/WLED-wemos-shield)](https://img.shields.io/github/v/release/srg74/WLED-wemos-shield)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/srg74/WLED-wemos-shield/blob/master/LICENSE)
 [![](https://img.shields.io/static/v1?label=Localized&message=firmware&color=blue&style=flat-square)](/resources/FIRMWARE/BIN)
 [![](https://img.shields.io/static/v1?label=WLED&message=firmware&color=green&style=flat-square)](https://github.com/Aircoookie/WLED/releases)
