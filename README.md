@@ -18,7 +18,8 @@ Wi-Fi LED controller with following features
 -   Can be configured for 3 wire and 4 wire addressable LED strips;
 -   Button options (depend on type of addressable LED strip);
 -   Relay for power saving feature (without disconnecting power from LED strip it still consuming mA per LED even if none of LEDs is lit);
--   Added I2C connector for OLED display or other devices that might be integrated in a feature.
+-   Added I2C connector for OLED display or other devices that might be integrated in a feature;
+-   Optional Dallas temperature sensor.
 
 ## Firmware used
 -   [WLED repository](https://github.com/Aircoookie/WLED) - Main WLED repository
