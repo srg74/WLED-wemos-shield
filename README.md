@@ -1,12 +1,17 @@
 # WLED-wemos-shield
+
 [![](https://img.shields.io/github/v/release/srg74/WLED-wemos-shield)](https://img.shields.io/github/v/release/srg74/WLED-wemos-shield)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/srg74/WLED-wemos-shield/blob/master/LICENSE)
 [![](https://img.shields.io/static/v1?label=Localized&message=firmware&color=blue&style=flat-square)](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware)
 [![](https://img.shields.io/static/v1?label=WLED&message=firmware&color=green&style=flat-square)](https://github.com/Aircoookie/WLED/releases)
 [![](https://img.shields.io/static/v1?label=WLED&message=app&color=green&style=flat-square)](https://github.com/Aircoookie/WLED-App)
+
 ## Wi-Fi LED controller based on Wemos D1 Mini original or clones (Wemos ESP32 D1 mini) for WLED firmware.
-![Controller](resources/Images/Wemos_set.jpg)
+
+![Controller](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/Assembly_8.jpg)
+
 ## PCB ordering
+
 -   [Ordering](https://www.pcbway.com/project/shareproject/WLED_wemos_shield.html) - $5 for 10 PCBs very good quality.
 ```
 Wi-Fi LED controller with following features
@@ -22,6 +27,7 @@ Wi-Fi LED controller with following features
 -   Optional Dallas temperature sensor.
 
 ## Firmware used
+
 -   [WLED repository](https://github.com/Aircoookie/WLED) - Main WLED repository
 
 #### Board creation is inspired by https://github.com/Aircoookie/WLED/wiki
