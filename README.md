@@ -7,6 +7,8 @@
 [![](https://img.shields.io/static/v1?label=WLED&message=app&color=green&style=flat-square)](https://github.com/Aircoookie/WLED-App)
 
 ## Wi-Fi LED controller based on Wemos D1 Mini original or clones (Wemos ESP32 D1 mini) for WLED firmware.
+-   More detailed info <a href=https://github.com/srg74/WLED-wemos-shield/wiki>here
+</a>
 
 ![Controller](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/Assembly_8.jpg)
 
