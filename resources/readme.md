@@ -4,6 +4,6 @@
 ## PCB
 ![PCB](/resources/WLED_Wemos_top.png)
 ## Scematic
-<a href="https://github.com/srg74/WLED-wemos-shield/master/resources/schematic.pdf">![Schematic](/resources/schematic.jpg)</a>
+<a href="https://github.com/srg74/WLED-wemos-shield/blob/master/resources/schematic.pdf">![Schematic](/resources/schematic.jpg)</a>
 ## Parts
 -   [BOM](https://github.com/srg74/WLED-wemos-shield/master/resources/BOM.pdf) - Bill of materials.
