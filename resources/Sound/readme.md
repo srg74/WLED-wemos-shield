@@ -1,4 +1,5 @@
 # Sound reactive shield
+-   [PCBWay referal](https://www.pcbway.com/setinvite.aspx?inviteid=83580) - If you order PCB through this link I will earn couple $.
 -   [Ordering](https://www.pcbway.com/project/shareproject/WLED_wemos_shield_with_sound_reactive_circuit.html) - $5 10 PCBs in no time :) Parts list in BOM.
 -   [Gerbers](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Gerbers) for persoanl study
 -   [WLED repository](https://github.com/atuline/WLED) - Sound reactive WLED repository
