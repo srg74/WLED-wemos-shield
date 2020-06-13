@@ -13,6 +13,7 @@ I appreciate you support my project, you can [![](https://www.paypalobjects.com/
 -   More detailed info <a href=https://github.com/srg74/WLED-wemos-shield/wiki>here
 </a>
 
+![Variants](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/esp32-esp8266.jpg)
 ![Controller](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/Shield-v1.1-3D.png)
 
 ## PCB ordering
