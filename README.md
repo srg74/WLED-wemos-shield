@@ -1,6 +1,5 @@
 # WLED-wemos-shield
-## <a href="https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Sound">Sound reactive version (under development)</a> 
-
+ 
 [![](https://img.shields.io/github/v/release/srg74/WLED-wemos-shield)](https://img.shields.io/github/v/release/srg74/WLED-wemos-shield)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/srg74/WLED-wemos-shield/blob/master/LICENSE)
 [![](https://img.shields.io/static/v1?label=Localized&message=firmware&color=blue&style=flat-square)](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware)
@@ -33,6 +32,8 @@ Wi-Fi LED controller with following features
 -   Relay for power saving feature (without disconnecting power from LED strip it still consuming mA per LED even if none of LEDs is lit);
 -   Added I2C connector for OLED display or other devices that might be integrated in a feature;
 -   Optional Dallas temperature sensor.
+
+## <a href="https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Sound">Sound reactive version (under development)</a>
 
 ## Firmware used
 
