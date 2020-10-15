@@ -8,7 +8,7 @@
 
 I appreciate your support for my project! [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VU7L89Z2RR7S4&source=url)
 
-## Wi-Fi LED controller based on Wemos D1 Mini original or clones (Wemos ESP32 D1 mini) for WLED firmware.
+## Wi-Fi LED controller based on Wemos D1 Mini original or clones, Wemos ESP32 D1 mini or TTGO T7 V1.3 MINI 32 ESP32 for WLED firmware.
 -   More detailed info <a href=https://github.com/srg74/WLED-wemos-shield/wiki>here
 </a>
 
