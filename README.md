@@ -28,9 +28,10 @@ Wi-Fi LED controller with following features
 -   Power selector (e.g 5VDC or 12VDC);
 -   Can be configured for 3 wire and 4 wire addressable LED strips;
 -   Analog input for sound reactive compatability;
--   Button options (depend on type of addressable LED strip);
+-   Button option on board (depend on type of addressable LED strip);
 -   Relay for power saving feature (without disconnecting power from LED strip it still consuming mA per LED even if none of LEDs is lit);
 -   Added I2C connector for OLED display or other devices that might be integrated in a feature;
+-   Optioanal IR reciever;
 -   Optional Dallas temperature sensor.
 
 ## <a href="https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Sound">Sound reactive version (under development)</a>
