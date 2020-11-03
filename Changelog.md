@@ -1,3 +1,9 @@
+### v1.5
+-   Exposed additional pins for I2S microphones. :bangbang: ESP32 boards only :bangbang:
+-   Removed header 3 positions labeled AUDIO.
+-   Added header 6 poitions labeled SOUND.
+-   Added second row of headers for ESP32 boards connectivities.
+
 ### v1.3
 -   Removed resistor R1 connected to GPIO14. Instead of header placed IR receiver.
 -   Added on board momentary push button connected to GPIO0. Removed header.
