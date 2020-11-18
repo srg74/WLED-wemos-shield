@@ -3,7 +3,7 @@
 -   Removed header 3 positions labeled AUDIO.
 -   Added header 6 poitions labeled SOUND.
 -   Added second row of headers for ESP32 boards connectivities.
--   Firmware v0.11_beta available for testing.
+-   <a href= https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11_beta_2011154>Firmware v0.11_beta</a> available for testing.
 
 ### v1.3
 -   Removed resistor R1 connected to GPIO14. Instead of header placed IR receiver.
