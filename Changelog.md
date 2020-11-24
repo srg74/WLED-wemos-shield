@@ -1,3 +1,6 @@
+### v1.51
+-   Minor update. Fixed library and gerber files errors.
+
 ### v1.5
 -   Exposed additional pins for I2S microphones. :bangbang: ESP32 boards only :bangbang:
 -   Removed header 3 positions labeled AUDIO.
