@@ -1,7 +1,7 @@
 WLED_Wemos_shield_Digikey,,,,,
 WLED Wemos shield BOM,,,,,
 Name,Value,Manufacturer,Digikey,MPN,QTY
-"R3, R4",10kOhm,Stackpole Electronics Inc,S10KQCT-ND,CFM14JT10K0,3
+"R3, R4",10kOhm,Stackpole Electronics Inc,S10KQCT-ND,CFM14JT10K0,2
 "R1, R5, R6, R7",4.7kOhm,Stackpole Electronics Inc,S4.7KQCT-ND,CFM14JT4K70,4
 R2,150Ohm,Stackpole Electronics Inc,S150QCT-ND,CFM14JT150R,1
 C1,0.1uF,Kemet,399-4151-ND,C315C104M5U5TA,1
