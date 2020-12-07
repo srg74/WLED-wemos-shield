@@ -1,6 +1,6 @@
 ### v1.51
 -   Minor update. Fixed library and gerber files errors.
--   Added <a href=https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11>WLED firmware v0.11 Build 2012010</a>.
+-   Added <a href=https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11>WLED firmware v0.11 Build 2012070</a>.
 -   Old builds removed.
 
 ### v1.5
