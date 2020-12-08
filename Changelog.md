@@ -1,4 +1,7 @@
-### Added linear audio input plug-in add-on board for v1.5 and up.
+# Sound reactive board is depricated. All feature will be available on WLED Wemos shield as plug-in add-on.
+
+## Added linear audio input plug-in add-on board for v1.5 and up.
+
 ### v1.51
 -   Minor update. Fixed library and gerber files errors.
 -   Added <a href=https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11>WLED firmware v0.11 Build 2012070</a>.
