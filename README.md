@@ -34,8 +34,6 @@ Wi-Fi LED controller with following features
 -   Optional IR reciever;
 -   Optional Dallas temperature sensor.
 
-## <a href="https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Sound">Sound reactive version (under development)</a>
-
 ## Firmware used
 
 -   [WLED shield specific repository](https://github.com/srg74/WLED/tree/WLED_wemos_shield) - WLED repository fork with changes to use with shield
