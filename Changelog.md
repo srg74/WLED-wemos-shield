@@ -1,4 +1,4 @@
-# Sound reactive board is depricated. All feature will be available on WLED Wemos shield as plug-in add-on.
+# Sound reactive board is depricated. All features will be available on WLED Wemos shield as plug-in add-on.
 
 ## Added linear audio input plug-in add-on board for v1.5 and up.
 
