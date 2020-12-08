@@ -12,7 +12,7 @@ I appreciate your support for my project! [![](https://www.paypalobjects.com/en_
 -   More detailed info <a href=https://github.com/srg74/WLED-wemos-shield/wiki>here
 </a>
 
-### For changes in design please see <a href=https://github.com/srg74/WLED-wemos-shield/blob/master/changelog.md>changelog.md</a>
+### For changes in design please see <a href=https://github.com/srg74/WLED-wemos-shield/blob/master/Changelog.md>changelog.md</a>
 
 ![Controller](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/Shield_v1.5-3D.png)
 
