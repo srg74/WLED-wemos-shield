@@ -7,6 +7,7 @@
 ## <p id=1>1. Linear audio input add-on plug-in board;
 ### PCB
 ![PCB](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/Linear_input_add-on.jpg)
+-   <a href=https://www.pcbway.com/project/shareproject/Audio_input_for_shield_v1_5.html>Order PCB</a>
 
 ### Scematic
 ![Schematic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/Sound_reactive_add-on.pdf)
