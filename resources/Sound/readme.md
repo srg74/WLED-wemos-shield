@@ -1,4 +1,5 @@
 # :bangbang: DEPRICATED :bangbang:
+# Please use <a href=https://github.com/srg74/WLED-wemos-shield>WLED Wemos shield</a> with <a href=https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Add-ons>add-ons</a> for sound reactive features
 ## Sound reactive shield
 -   [PCBWay referal](https://www.pcbway.com/setinvite.aspx?inviteid=83580) - If you order PCB through this link I will earn couple $.
 -   [Ordering](https://www.pcbway.com/project/shareproject/WLED_wemos_shield_with_sound_reactive_circuit.html) - $5 10 PCBs in no time :) Parts list in BOM.
