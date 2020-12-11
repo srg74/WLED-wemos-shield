@@ -7,4 +7,5 @@
 <a href="https://github.com/srg74/WLED-wemos-shield/blob/master/resources/schematic.pdf">![Schematic](/resources/schematic.jpg)</a>
 ## Parts
 -   [BOM](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/BOM.pdf) - Bill of materials in PDF format.
+-   [BOM](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/BOM.xlsx) - Bill of materials in XLSX format.
 -   [Digikey part list](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/WLED_Wemos_shield_Digikey.csv) - BOM file that you can upload to Digikey website for order.
