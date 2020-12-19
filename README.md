@@ -14,9 +14,9 @@ I appreciate your support for my project! [![](https://www.paypalobjects.com/en_
 -   Detailed assembly and options <a href=https://github.com/srg74/WLED-wemos-shield/wiki>information here
 </a>
 
-### For changes in design please see <a href=https://github.com/srg74/WLED-wemos-shield/blob/master/Changelog.md>changelog.md</a>
-
 ![Controller](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Enclosure/Board%20with%20OLED.jpg)
+
+### For changes in design please see <a href=https://github.com/srg74/WLED-wemos-shield/blob/master/Changelog.md>changelog.md</a>
 
 ## PCB ordering
 
