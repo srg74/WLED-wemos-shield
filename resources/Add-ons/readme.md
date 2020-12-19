@@ -17,7 +17,9 @@
 ## <h2 id=2> 2. Digital microphone ICS-43434 add-on plug-in board</h2>
 
 -   In development.
+<img src=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Enclosure/Enclosure%20with%20mic.jpg>
 
 ## <h2 id=3> 3. Digital input/output screw terminal add-on plug-in board</h2>
 
+<img src=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Enclosure/Enclosure%20with%20terminals.jpg>
 -   In development.
