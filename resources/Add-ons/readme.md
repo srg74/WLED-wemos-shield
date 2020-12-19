@@ -12,8 +12,14 @@
 -   <a href=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/linear_input/Sound_reactive_add-on.pdf>Scematic</a>
 -   <a href=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/linear_input/BOM.pdf>Parts</a>
 -   <a href=https://github.com/atuline/WLED>All credits and references for circuits, thanks to Sound reactive fork possible by atuline and his team</a>
+<img src=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Enclosure/Enclosure%20with%20audio.jpg>
+
 ## <h2 id=2> 2. Digital microphone ICS-43434 add-on plug-in board</h2>
 
+-   In development.
+<img src=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Enclosure/Enclosure%20with%20mic.jpg>
 
 ## <h2 id=3> 3. Digital input/output screw terminal add-on plug-in board</h2>
 
+<img src=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Enclosure/Enclosure%20with%20terminals.jpg>
+-   In development.
