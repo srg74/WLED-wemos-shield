@@ -16,6 +16,8 @@
 
 ## <h2 id=2> 2. Digital microphone ICS-43434 add-on plug-in board</h2>
 
+-   In development.
 
 ## <h2 id=3> 3. Digital input/output screw terminal add-on plug-in board</h2>
 
+-   In development.
