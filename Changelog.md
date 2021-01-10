@@ -1,6 +1,6 @@
 # Sound reactive board is depricated. All features will be available on WLED Wemos shield as plug-in add-on.
 
-## Added <a href=https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Add-ons>linear audio input plug-in add-on board</a> for Shield v1.5 and up.
+## Added <a href=https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Add-ons>linear audio input plug-in, and digital ICS-43434 microphone add-on boards</a> for Shield v1.5 and up.
 
 
 
