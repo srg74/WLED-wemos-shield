@@ -45,4 +45,5 @@ Wi-Fi LED controller with following features
 -   [WLED shield specific repository](https://github.com/srg74/WLED/tree/WLED_wemos_shield) - WLED repository fork with changes to use with shield
 -   [WLED repository](https://github.com/Aircoookie/WLED) - Aircoookie original WLED repository
 -   [WLED repository](https://github.com/atuline/WLED) - Sound reactive WLED fork repository
+-   [Custom firmware builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware) - Custom bin files for various configurations
 #### Board creation is inspired by https://github.com/Aircoookie/WLED/wiki
