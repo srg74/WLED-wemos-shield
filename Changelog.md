@@ -1,8 +1,11 @@
 # Sound reactive board is depricated. All features will be available on WLED Wemos shield as plug-in add-on.
 
-## Added <a href=https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Add-ons>linear audio input plug-in, and digital ICS-43434 microphone add-on boards</a> for Shield v1.5 and up.
+## v2.0
+-   Added copability to connect up to 4 LED strips with level shifting and one output without.
+-   Added more flexibility with solder on jumpers.
 
-
+### Added <a href=https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Add-ons>terminals add-on</a>
+### Added <a href=https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Add-ons>linear audio input plug-in, and digital ICS-43434 microphone add-on boards</a> for Shield v1.5 and up.
 
 ### v1.51
 -   Minor update. Fixed library and gerber files errors.
