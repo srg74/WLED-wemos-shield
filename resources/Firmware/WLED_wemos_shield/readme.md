@@ -20,4 +20,4 @@
 
 ### Experimental bin files from developers forks:
 
-- [v0.11.1](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11.1_blazonchek_multistrip) - Version 0.11.1 build 2102270 coded by @blazoncek. Included enhanced GUI and LED multi pin strip support with GUI setup.
+- [v0.11.1](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11.1_blazoncek_multistrip) - Version 0.11.1 build 2102270 coded by @blazoncek. Included enhanced GUI and LED multi pin strip support with GUI setup.
