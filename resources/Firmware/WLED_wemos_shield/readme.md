@@ -14,10 +14,10 @@
 - [v0.11.1_2012210](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11.1_2012210) - Version 0.11.1 build 2012210
 - [v0.91n_2004230](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.91n_2004230) - Version 0.91n build 2004230
 
-### Beta bin files
+### Development bin files
 
-- [v0.12b_2102270](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.12b_2102050) - Version 0.12b build 2102050. First official LED multi pin support.
+- [v0.12a_2103040](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.12a) - Version 0.12a build 2103040. First official LED multi pin support.
 
 ### Experimental bin files from developers forks:
 
-- [v0.11.1](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11.1_blazonchek_multistrip) - Version 0.11.1 build 2102270 coded by @blazoncek. Included enhanced GUI and LED multi pin strip support with GUI setup.
+- [v0.11.1_2103040](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11.1_blazonchek_multistrip) - build 2103040 coded by @blazoncek. Included enhanced GUI and LED multi pin strip support with GUI setup.
