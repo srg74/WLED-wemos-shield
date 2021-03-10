@@ -6,7 +6,7 @@
 
 - ESP8266 -> LED - GPIO2, GPIO0 - button(or CLK), Relay - GPIO12;
 - ESP32 -> LED - GPIO16, GPIO17 - button(or CLK), Relay - GPIO19;
-- (for other pins please see pinout table on schematic)
+- (for full pinout table, please see schematic)
 
 ### Official firmware @Aircoookie repo (top line is newest)
 
