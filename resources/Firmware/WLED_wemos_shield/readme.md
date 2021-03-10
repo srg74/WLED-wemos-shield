@@ -8,7 +8,7 @@
 - ESP32 -> LED - GPIO16, GPIO17 - button(or CLK), Relay - GPIO19;
 - (for other pins please see pinout table on schematic)
 
-### top line is newest -
+### Official firmware from Aircoookie (top line is newest)
 
 - [v0.11.1_2101130](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11.1_2101130) - Version 0.11.1 build 2101130
 - [v0.11.1_2012210](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11.1_2012210) - Version 0.11.1 build 2012210
