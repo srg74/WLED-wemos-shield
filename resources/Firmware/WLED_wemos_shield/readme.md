@@ -8,16 +8,16 @@
 - ESP32 -> LED - GPIO16, GPIO17 - button(or CLK), Relay - GPIO19;
 - (for other pins please see pinout table on schematic)
 
-### Official firmware from Aircoookie (top line is newest)
+### Official firmware @Aircoookie repo (top line is newest)
 
 - [v0.11.1_2101130](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11.1_2101130) - Version 0.11.1 build 2101130
 - [v0.11.1_2012210](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11.1_2012210) - Version 0.11.1 build 2012210
 - [v0.91n_2004230](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.91n_2004230) - Version 0.91n build 2004230
 
-### Development bin files
+### Development bin files @Aircoookie repo
 
 - [v0.12a_2103090](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.12a) - Version 0.12a build 2103090. First official LED multi pin support.
 
-### Experimental bin files from developers forks:
+### Experimental bin files @Blazoncek fork:
 
 - [v0.12a_2103100](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.12a_blazoncek_multistrip) - coded by @blazoncek. Included enhanced GUI and LED multi pin strip support with GUI setup.
