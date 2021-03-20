@@ -21,4 +21,4 @@
 ### Experimental bin files @Blazoncek fork:
 
 - [v0.11.1_2103100 stable](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11.1_blazoncek_multistrip) - coded by @blazoncek. Included enhanced GUI and LED multi pin strip support with GUI setup.
-- [v0.12.0-a0_2103191 development](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.12.0-a0_blazoncek_dev) - coded by @blazoncek. Further development. Added twilightlord-esp32-8MB.bin for great dev board!
+- [v0.12.0-b1_2103201 development](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.12.0-b1_blazoncek_dev) - coded by @blazoncek. Further development. Added twilightlord-esp32-8MB.bin for great dev board!
