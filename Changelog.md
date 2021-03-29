@@ -1,7 +1,7 @@
 # Sound reactive board is depricated. All features will be available on WLED Wemos shield as plug-in add-on.
 
 ## v2.0
--   Added copability to connect up to 4 LED strips with level shifting and one output without.
+-   Added copability to connect up to 4 LED strips with level shifting.
 -   Added more flexibility with solder on jumpers.
 
 ### Added <a href=https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Add-ons>terminals add-on</a>
