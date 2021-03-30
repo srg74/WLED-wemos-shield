@@ -16,7 +16,7 @@
 
 ### Development bin files @Aircoookie repo
 
-- [v0.12.0-b4_2103281](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.12.0-b3) - Version 0.12.0-b4 build 2103281. First official LED multi pin support.
+- [v0.12.0-b5_2103300](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.12.0-b5) - Version 0.12.0-b5 build 2103300. First official LED multi pin support.
 
 ### Experimental bin files @Blazoncek fork:
 
