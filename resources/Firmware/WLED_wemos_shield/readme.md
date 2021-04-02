@@ -10,14 +10,10 @@
 
 ### Official firmware @Aircoookie repo (top line is newest)
 
+- [v0.12.0_2104020](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.12.0_2104020) - Version 0.12.0 build 2104020
 - [v0.11.1_2101130](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11.1_2101130) - Version 0.11.1 build 2101130
 - [v0.11.1_2012210](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11.1_2012210) - Version 0.11.1 build 2012210
 - [v0.91n_2004230](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.91n_2004230) - Version 0.91n build 2004230
-
-### Development bin files @Aircoookie repo
-
-- [v0.12.0-b5_2103300](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.12.0-b5) - Version 0.12.0-b5 build 2103300. First official LED multi pin support.
-
 ### Experimental bin files @Blazoncek fork:
 
 - [v0.11.1_2103101 stable](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11.1_blazoncek_multistrip) - coded by @blazoncek. Included enhanced GUI and LED multi pin strip support with GUI setup.
