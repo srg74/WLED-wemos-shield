@@ -1,4 +1,4 @@
-# Very early alpha for testing. Ambient lights for staircase. v0.12.2-bl0 build 2105041
+# Beta for testing. Multiple usermods. v0.12.2-bl0 build 2105041
 
 - [No user mods](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/No_user_mods) - EPS8266 and ESP32
 - [4 line OLED display usermod](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/4_line_display) - EPS8266 and ESP32
