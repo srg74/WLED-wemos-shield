@@ -17,5 +17,7 @@
 ### Experimental bin files @Blazoncek fork:
 
 - [Moved to experimental](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental) - coded by @blazoncek. Included enhanced GUI and LED multi pin strip support with GUI setup. And many more improvements 
-<br><p style="color:red;">WARNING!!! Please save your presets.json before updating firmware!</p>
+```diff
+- WARNING!!! Please save your presets.json before updating firmware!
+
 <code>http://IP_ADDRESS/edit</code>
