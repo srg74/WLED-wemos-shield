@@ -30,15 +30,18 @@ Wi-Fi LED controller with following features
 -   Very easy to configure for your needs;
 -   Easy to solder components;
 -   Level shifter for relaible signal;
--   Power selector (e.g 5VDC or 12VDC);
--   Can be configured for 3 wire and 4 wire addressable LED strips;
+-   Solder jumpers for flexible confiuration;
+-   Power selector (e.g 5VDC or 12/24VDC);
+-   Can be configured for 1 wire and 2 wire addressable LED strips;
 -   Analog and Digital input for sound reactive compatability;
 -   Button option on board (depend on type of addressable LED strip);
 -   Relay for power saving feature (without disconnecting power from LED strip it still consuming mA per LED even if none of LEDs is lit);
+-   Auxilary power for additional relay or other 5VDC powered devices; 
 -   I2C connector for OLED display or other devices that might be integrated in a feature;
 -   I2S connectivity for ESP32 boards;
 -   Optional IR reciever;
--   Optional Dallas temperature sensor.
+-   Optional Dallas temperature sensor;
+-   Optional I2C sensors.
 
 ## Firmware used
 
