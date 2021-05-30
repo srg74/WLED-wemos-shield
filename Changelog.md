@@ -1,3 +1,10 @@
+## v2.1
+
+- Added possibility to switch digital out 2 -> clock pin (GPIO1/GPIO3)
+- Added header for Auxiliary 5V (required buck converter upgrade to 1000mA)
+- Wiki updated for shields v2.0 and above
+- Shield mounting holes now is 3mm
+
 # Sound reactive board is depricated. All features will be available on WLED Wemos shield as plug-in add-on.
 
 ## v2.0
