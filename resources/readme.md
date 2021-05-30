@@ -2,7 +2,7 @@
 -   [Ordering](https://www.pcbway.com/project/shareproject/WLED_wemos_shield.html) - $5 10 PCBs in no time :) Parts list in BOM.
 # Shield PCBs and scematic
 ## PCB
-![PCB](/resources/images/WLED_Wemos_top.png)
+![PCB](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/WLED_Wemos_top.png)
 ## Scematic
 <a href="https://github.com/srg74/WLED-wemos-shield/blob/master/resources/schematic.pdf">![Schematic](/resources/schematic.jpg)</a>
 ## Parts
