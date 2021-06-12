@@ -1,4 +1,4 @@
-# Beta for testing. Multiple usermods. v0.12.2-bl0 build 2106081
+# Beta for testing. Multiple usermods. v0.12.2-bl3 build 2106111
 
 ## GUI configurable usermods.
 
