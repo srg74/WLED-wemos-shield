@@ -22,7 +22,7 @@ I appreciate your support for my project! [![](https://www.paypalobjects.com/en_
 
 -   [Ordering](https://www.pcbway.com/project/shareproject/WLED_wemos_shield.html) - $5 for 10 PCBs very good quality.
 -   [Sign in and save](https://www.pcbway.com/setinvite.aspx?inviteid=83580) - Helping me to save some money for development.
--   [Small batch on Tindie](https://www.tindie.com/stores/serg74)
+-   [Ready to use fully assembled shield on Tindie](https://www.tindie.com/stores/serg74)
 
 ```
 Wi-Fi LED controller with following features
