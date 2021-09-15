@@ -5,4 +5,4 @@
 -   [Connection guide](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/mini_shield/mini_connection_guide_v1.2.pdf) - Connection guide for WS281X strips and clocked APA102.
 -   [3D printed enclosure](https://www.thingiverse.com/thing:4965917) - design by @HarryBaas
 ***
-![PCB](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/Mini_v1.2.jpeg)
+![PCB](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/Mini_v1.2.jpg)
