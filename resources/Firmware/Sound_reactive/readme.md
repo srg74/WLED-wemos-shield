@@ -1,6 +1,6 @@
 # Sound reactive fork
 -   [Repository](https://github.com/atuline/WLED) - Fork under development. All questions to WLED Discord #soundreactive
-## Firmware for ESP32 only
+## Firmware for ESP32 and ESP8266
 [ESP32 Sound reactive for shields](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/Sound_reactive/v0.13.0-b3) - v0.13.0-b3 build 2109271
 
 [ESP32 Sound reactive for shields](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/Sound_reactive/v0.13.0-b2) - v0.13.0-b2 build 2109141
