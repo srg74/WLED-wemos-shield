@@ -3,7 +3,7 @@
 ## Firmware for ESP32 and ESP8266
 [ESP32 Sound reactive for shields](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/Sound_reactive/v0.13.0-b4) - v0.13.0-b4 build 2111081
 
-[ESP8266 Sound reactive for shields](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/Sound_reactive/v0.13.0-b3) - v0.13.0-b3 build 2110171
+[ESP8266 Sound reactive for shields](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/Sound_reactive/v0.13.0-b3) - v0.13.0-b3 build 2111121
 
 [ESP32 Sound reactive for shields](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/Sound_reactive/v0.13.0-b3) - v0.13.0-b3 build 2110271
 
