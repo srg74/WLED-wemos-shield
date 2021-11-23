@@ -1,6 +1,6 @@
-# Beta for testing. Multiple usermods. 0.13.1-bl5 build 2111221
+# Beta for testing. Multiple usermods. 0.13.1-bl5 build 2111231
 
-## GUI configurable usermods.
+## GUI configurable usermods
 
 - [Choose regarding your setup](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware) - EPS8266 and ESP32
 
