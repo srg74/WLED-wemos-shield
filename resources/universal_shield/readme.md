@@ -1,6 +1,6 @@
 # Universal shield black
 
-- [User reference guide](https://link)
+- [Shield pinout](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/wiki/Wemos_shield_pinout.pdf)
 
 ## Shield PCBs and scematic
 
