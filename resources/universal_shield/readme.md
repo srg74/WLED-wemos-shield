@@ -8,6 +8,7 @@
 
 ![PCB top](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/universal_shield/images/shield-v3.0smd_r2_top.png)
 
+
 ![PCB bottom](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/universal_shield/images/shield-v3.0smd_r2_bottom.png)
 
 ## Scematic
