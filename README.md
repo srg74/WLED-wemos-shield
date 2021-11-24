@@ -1,19 +1,19 @@
-# WLED wemos shield with <a href=https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Add-ons>plug-in add-ons</a>
+# WLED wemos shield with [plug-in add-ons](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Add-ons)
 
 [![release](https://img.shields.io/github/v/release/srg74/WLED-wemos-shield)](https://img.shields.io/github/v/release/srg74/WLED-wemos-shield)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/srg74/WLED-wemos-shield/blob/master/LICENSE)
 [![custom firmware](https://img.shields.io/static/v1?label=Custom&message=firmware&color=blue&style=flat-square)](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware)
-<a href="https://travis-ci.com/srg74/WLED.svg?branch=WLED_wemos_shield"><img src="https://img.shields.io/travis/com/srg74/WLED?style=flat-square"></a>
+[![Build](https://img.shields.io/travis/com/srg74/WLED?style=flat-square)](https://travis-ci.com/srg74/WLED.svg?branch=WLED_wemos_shield)
 [![Official releases](https://img.shields.io/static/v1?label=WLED&message=firmware&color=green&style=flat-square)](https://github.com/Aircoookie/WLED/releases)
 [![WLED app](https://img.shields.io/static/v1?label=WLED&message=app&color=green&style=flat-square)](https://github.com/Aircoookie/WLED-App)
 [![Desktop app](https://img.shields.io/static/v1?label=WLED&message=Desktop-app&color=violet&style=flat-square)](https://github.com/WoodyLetsCode/WLED-GUI/releases/)
 
-I appreciate your support for my project! [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=VU7L89Z2RR7S4)
+I appreciate your support for my project! [![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=VU7L89Z2RR7S4)
 
-## Wi-Fi LED controller based on Wemos D1 Mini original or clones, Wemos ESP32 D1 mini for WLED firmware
+## Wi-Fi LED shield based on Wemos D1 Mini original or clones, Wemos ESP32 D1 mini for WLED firmware
 
-- Detailed assembly and options <a href=https://github.com/srg74/WLED-wemos-shield/wiki>information is here </a>
-<img src="https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Enclosure/Board%20with%20OLED.jpg" width="40%">
+- Detailed assembly and [options information is here](https://github.com/srg74/WLED-wemos-shield/wiki)
+[![Shield](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Enclosure/Board%20with%20OLED.jpg)]
 
 ### For changes in design please see <a href=https://github.com/srg74/WLED-wemos-shield/blob/master/Changelog.md>changelog.md</a>
 
