@@ -22,7 +22,7 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 - [Sign in and save](https://www.pcbway.com/setinvite.aspx?inviteid=83580) - Helping me to save some money for development.
 - [Ready to use fully assembled shield on Tindie](https://www.tindie.com/stores/serg74)
 
-```Wi-Fi LED controller with following features```
+## Wi-Fi LED controller with following features
 
 - Very easy to configure for your needs;
 - Easy to solder components;
