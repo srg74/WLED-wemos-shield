@@ -10,4 +10,4 @@
 
 ## Scematic
 
-[![Schematic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/schematic.png)](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/schematic.pd)
+[![Schematic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/schematic.png)](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/schematic.pdf)
