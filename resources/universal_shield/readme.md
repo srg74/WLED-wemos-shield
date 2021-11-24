@@ -1,4 +1,4 @@
-# Universal shield black
+# Universal shield black v3.0
 
 - [Shield pinout](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/wiki/Wemos_shield_pinout.pdf)
 
