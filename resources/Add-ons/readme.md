@@ -27,11 +27,12 @@
 
 ![Enclosure with mic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/ics-43434/Enclosure%20with%20mic.jpg)
 
-## <h2 id=3> 3. Digital input/output screw terminal add-on plug-in board</h2>
-###   Plug-in module
-<img src="https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/Terminals_add-on%20v2.0.png">
+### [3]Digital input/output screw terminal add-on plug-in board
 
--   <a href=https://www.pcbway.com/project/shareproject/Audio_input_for_shield_v1_5.html>Order PCB</a>
--   <a href=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/Terminals_add-on.pdf>Scematic</a>
--   <a href=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/BOM.xlsx>Parts</a>
-<img src=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Enclosure/Enclosure%20with%20terminals.jpg width="40%">
+![Plug-in module](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/Terminals_add-on%20v2.0.png)
+
+- [Order PCB](https://www.pcbway.com/project/shareproject/Audio_input_for_shield_v1_5.html)
+- [Scematic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/Terminals_add-on.pdf)
+- [Parts](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/BOM.xlsx)
+
+![Terminals](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/ics-43434/Enclosure%20with%20terminals.jpg)
