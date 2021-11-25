@@ -14,7 +14,7 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 
 - Detailed assembly and options information is [here](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Enclosure/Board%20with%20OLED.jpg)
 
-[![Shield](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Enclosure/Board%20with%20OLED.jpg)](https://github.com/srg74/WLED-wemos-shield/wiki)
+[![Shield](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/Board%20with%20OLED.jpg)](https://github.com/srg74/WLED-wemos-shield/wiki)
 
 ### For changes in design please see [changelog.md](https://github.com/srg74/WLED-wemos-shield/blob/master/Changelog.md)
 
