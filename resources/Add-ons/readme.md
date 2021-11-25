@@ -1,10 +1,10 @@
-## Available add-ons
+# Available add-ons
 
-### [Linear audio input add-on plug-in board](#1linear-audio-input-add-on-plug-in-board)
+## [Linear audio input add-on plug-in board](#1linear-audio-input-add-on-plug-in-board)
 
-### [Digital microphone ICS-43434 add-on plug-in board](#2digital-microphone-ics-43434-add-on-plug-in-board)
+## [Digital microphone ICS-43434 add-on plug-in board](#2digital-microphone-ics-43434-add-on-plug-in-board)
 
-### [Digital input/output screw terminal add-on plug-in board](#3-digital-inputoutput-screw-terminal-add-on-plug-in-board)
+## [Digital input/output screw terminal add-on plug-in board](#3-digital-inputoutput-screw-terminal-add-on-plug-in-board)
 
 ### [1]Linear audio input add-on plug-in board
 
