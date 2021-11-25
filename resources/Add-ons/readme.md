@@ -19,13 +19,12 @@
 
 ### [2]Digital microphone ICS-43434 add-on plug-in board
 
+![ICS43434](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/ics-43434/ICS-43434.jpg)
 [![Tindie](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png)](https://www.tindie.com/stores/serg74)
 
 - [Scematic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/ics-43434/ics43434_shield.jpg)
 
-![ICS43434](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/ics-43434/ICS-43434.jpg)
-
-<img src=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Enclosure/Enclosure%20with%20mic.jpg width="40%">
+![Enclosure with mic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Enclosure/Enclosure%20with%20mic.jpg)
 
 ## <h2 id=3> 3. Digital input/output screw terminal add-on plug-in board</h2>
 ###   Plug-in module
