@@ -4,7 +4,7 @@
 
 ### [Digital microphone ICS-43434 add-on plug-in board](#2)
 
-### [Digital input/output screw terminal add-on plug-in board](#Terminal)
+### [Digital input/output screw terminal add-on plug-in board](#Terminals)
 
 ### [1]Linear audio input add-on plug-in board
 
