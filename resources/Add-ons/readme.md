@@ -35,4 +35,4 @@
 - [Scematic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/Terminals_add-on.pdf)
 - [Parts](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/BOM.xlsx)
 
-![Terminals](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/Terminals_add-on%20v2.0.png)
+![Terminals](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/Enclosure%20with%20terminals.jpg)
