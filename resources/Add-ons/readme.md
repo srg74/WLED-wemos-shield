@@ -2,19 +2,20 @@
 
 ## [Linear audio input add-on plug-in board](#1)
 
--   <a href=#2>Digital microphone ICS-43434 add-on plug-in board</a>;
--   <a href=#3>Digital input/output screw terminal add-on plug-in board</a>;
+## [Digital microphone ICS-43434 add-on plug-in board](#2)
+
+## [Digital input/output screw terminal add-on plug-in board](#3)
 
 ## [1]Linear audio input add-on plug-in board
 
-### Plug-in module
-<img src="https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/linear_input/Linear_input_add-on.jpg">
+![Plug-in module](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/linear_input/Linear_input_add-on.jpg)
 
--   <a href=https://www.pcbway.com/project/shareproject/Audio_input_for_shield_v1_5.html>Order PCB</a>
--   <a href=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/linear_input/Sound_reactive_add-on.pdf>Scematic</a>
--   <a href=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/linear_input/BOM.pdf>Parts</a>
--   <a href=https://github.com/atuline/WLED>All credits and references for circuits, thanks to Sound reactive fork possible by atuline and his team</a>
-<img src=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Enclosure/Enclosure%20with%20audio.jpg width="40%">
+- [Order PCB](https://www.pcbway.com/project/shareproject/Audio_input_for_shield_v1_5.html)
+- [Scematic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/linear_input/Sound_reactive_add-on.pdf)
+- [Parts](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/linear_input/BOM.pdf)
+- [All credits and references for circuits, thanks to Sound reactive fork possible by atuline and his team](https://github.com/atuline/WLED)
+
+![Linear in](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Enclosure/Enclosure%20with%20audio.jpg)
 
 ## <h2 id=2> 2. Digital microphone ICS-43434 add-on plug-in board</h2>
 ### Plug-in module
