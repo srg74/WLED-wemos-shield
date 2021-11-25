@@ -27,7 +27,7 @@
 
 ![Enclosure with mic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/ics-43434/Enclosure%20with%20mic.jpg)
 
-### [Terminals]Digital input/output screw terminal add-on plug-in board
+### [Terminals] Digital input/output screw terminal add-on plug-in board
 
 ![Plug-in module](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/Terminals_add-on%20v2.0.png)
 
