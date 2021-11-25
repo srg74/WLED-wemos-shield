@@ -1,10 +1,11 @@
 # Available add-ons
 
--   <a href=#1>Linear audio input add-on plug-in board</a>;
+## [Linear audio input add-on plug-in board](1)
+
 -   <a href=#2>Digital microphone ICS-43434 add-on plug-in board</a>;
 -   <a href=#3>Digital input/output screw terminal add-on plug-in board</a>;
 
-## <h2 id=1>1. Linear audio input add-on plug-in board</h2>
+## [1]Linear audio input add-on plug-in board</h2>
 ### Plug-in module
 <img src="https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/linear_input/Linear_input_add-on.jpg">
 
