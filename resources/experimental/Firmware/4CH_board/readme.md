@@ -1,6 +1,7 @@
 # [ENV]
 
-```[env:esp32_4ch_fan_display_rotary_relays]
+```
+[env:esp32_4ch_fan_display_rotary_relays]
 board = esp32dev
 platform = espressif32@3.2
 board_build.partitions = tools/WLED_ESP32_4MB_1MB_FS.csv
@@ -42,4 +43,5 @@ build_flags = ${common.build_flags_esp32}
   -UWLED_USE_MY_CONFIG
 lib_deps = ${esp32.lib_deps}
   OneWire@~2.3.6
-  U8g2@~2.28.8```
+  U8g2@~2.28.8
+  ```
