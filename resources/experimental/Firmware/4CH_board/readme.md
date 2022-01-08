@@ -7,9 +7,9 @@ board_build.partitions = tools/WLED_ESP32_4MB_1MB_FS.csv
 ;board_build.partitions = tools/WLED_ESP32_16MB.csv
 upload_speed = 460800
 monitor_speed = 115200
-upload_protocol = espota
+;upload_protocol = espota
 # exchange for your WLED IP
-upload_port = "10.0.0.85"
+;upload_port = "10.0.0.85"
 build_unflags = ${common.build_unflags}
 build_flags = ${common.build_flags_esp32}
   -D BTNPIN=0
