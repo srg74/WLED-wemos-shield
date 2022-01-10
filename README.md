@@ -40,7 +40,8 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 - I2S connectivity for ESP32 boards;
 - Optional IR reciever;
 - Optional Dallas temperature sensor;
-- Optional I2C sensors.
+- Optional I2C sensors;
+- 4 or 3 pin PWM fan circuit.
 
 ## Firmware used
 
