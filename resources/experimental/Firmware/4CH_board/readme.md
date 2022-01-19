@@ -1,7 +1,6 @@
 # [ENV]
 
-```
-[env:esp32_4ch_fan_display_rotary_relays]
+```[env:esp32_4ch_fan_display_rotary_relays]
 board = esp32dev
 platform = espressif32@3.2
 board_build.partitions = tools/WLED_ESP32_4MB_1MB_FS.csv
@@ -10,7 +9,7 @@ upload_speed = 460800
 monitor_speed = 115200
 ;upload_protocol = espota
 # exchange for your WLED IP
-;upload_port = "10.0.0.85"
+;upload_port = "10.0.0.XX"
 build_unflags = ${common.build_unflags}
 build_flags = ${common.build_flags_esp32}
   -D BTNPIN=0
@@ -44,4 +43,7 @@ build_flags = ${common.build_flags_esp32}
 lib_deps = ${esp32.lib_deps}
   OneWire@~2.3.6
   U8g2@~2.28.8
-  ```
+```
+
+- build 2201192
+ 
