@@ -1,4 +1,4 @@
-# Beta for testing. Multiple usermods.
+# Beta for testing. Multiple usermods
 
 ## GUI configurable usermods
 
