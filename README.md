@@ -28,7 +28,7 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 - Very easy to configure for your project;
 - Easy to solder components;
 - Level shifter for relaible data signal;
-- Solder jumpers for flexible confiuration;
+- Solder jumpers for flexible configuration;
 - Power selector (e.g 5VDC or 12/24VDC);
 - Can be configured for 1 (data) wire and 2 (data, clock) wires addressable LED strips;
 - Analog and Digital input for sound reactive compatability;
