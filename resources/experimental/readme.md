@@ -4,6 +4,8 @@
 
 - [v0.14.0-bl0 builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware) - ESP32 only v0.14.0-bl0 build 2208311
 
+- [v0.14.0-bl0 builds audio reactive](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware/AudioReactive) - ESP32 only v0.14.0-bl0 build 2209011
+
 All builds are from https://github.com/blazoncek/WLED/tree/segment-api with various usermods. Mods included in to the build in file name.
 
 ```
