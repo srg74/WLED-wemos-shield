@@ -2,11 +2,11 @@
 
 ## GUI configurable usermods
 
-- [v0.14.0-bl0 builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware) - v0.14.0-bl0 build 2210061
+- [v0.14.0-bl0 builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware) - v0.14.0-bl0 build 2210091
 
 - [v0.14.0 builds audio reactive](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware/AudioReactive) - ESP32 only v0.14.0 build 2210071
 
-- [v0.14.0-bl0 builds ESP32-S2, S3, C3](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware/ESP32-S2,S3,C3) - v0.14.0 build 2210061
+- [v0.14.0-bl0 builds ESP32-S2, S3, C3](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware/ESP32-S2,S3,C3) - v0.14.0 build 2210091
 
 All builds are from https://github.com/blazoncek/WLED/tree/segment-api with various usermods. Mods included in to the build in file name.
 
