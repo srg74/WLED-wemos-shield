@@ -1,5 +1,8 @@
 # Beta for testing. Multiple usermods
 
+## WLED ESP flasher
+- [2210130 build](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/WLED_ ESP_Flasher) - MacOS, Windows.
+
 ## GUI configurable usermods
 
 - [v0.14.0-bl0 builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware) - v0.14.0-bl0 build 2210131

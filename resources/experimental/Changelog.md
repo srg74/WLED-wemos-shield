@@ -1,5 +1,5 @@
-# @blazoncek fork change log
+# Devs and betas forks change log
 
-## v0.13.2-bl0 Build 2204301
+## v0.14-b0 Builds 2210131
 
-- Allow swapping of W channel for RGBW LEDs. Backporting fix.
+## WLED ESP flasher build 2210130
