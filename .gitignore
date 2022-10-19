@@ -1,8 +1,0 @@
-.pio
-.pioenvs
-.piolibdeps
-.vscode
-!.vscode/extensions.json
-.code-workspace
-.gitignore
-.DS_Store
