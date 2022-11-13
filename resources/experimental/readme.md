@@ -5,7 +5,7 @@
 
 ## GUI configurable usermods
 
-- [v0.14.0-bl0 builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware) - v0.14.0-bl0 build 2210271
+- [v0.14.0-bl0 builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware) - v0.14.0-bl0 build 2211131
 
 - [v0.14.0 builds audio reactive](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware/AudioReactive) - ESP32 only 0.14.0.2.1 build 2211101
 
