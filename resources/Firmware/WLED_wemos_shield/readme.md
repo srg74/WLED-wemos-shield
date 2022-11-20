@@ -10,7 +10,7 @@
 
 ### Official firmware @Aircoookie repo (top line is newest), also added DEBUG builds
 
-- [v0.14.0-b0](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.14.0-b0) - Version v0.14.0-b0 build 2211201
+- [v0.14.0-b0](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.14.0-b0) - Version v0.14.0-b0 build 2211202
 - [v0.13.3](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.13.3) - Version v0.13.3 build 2210150
 - [v0.13.2](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.13.2) - Version v0.13.2 build 2208210
 
