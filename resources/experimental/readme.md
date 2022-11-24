@@ -11,7 +11,7 @@
 
 - [v0.14.0-bl0 builds ESP32-S2, S3, C3](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware/ESP32-S2,S3,C3) - v0.14.0 build 2210271
 
-All builds are from https://github.com/blazoncek/WLED/tree/segment-api with various usermods. Mods included in to the build in file name.
+All builds are from https://github.com/blazoncek/WLED/tree/segment-api with various usermods. Mod name is included in the file name.
 
 ```
 # Example for a build
