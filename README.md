@@ -9,9 +9,9 @@
 
 I appreciate your support for my project! [![donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=VU7L89Z2RR7S4)
 
-## Wi-Fi LED shield based on Wemos D1 Mini original or clones, Wemos ESP32 D1 mini for WLED firmware
+## Wi-Fi LED shield based on Wemos D1 Mini original or clones, Wemos ESP32 D1 mini, for WLED firmware
 
-- Detailed assembly and options information is [here](https://github.com/srg74/WLED-wemos-shield/wiki)
+- Detailed assembly and option information is [here](https://github.com/srg74/WLED-wemos-shield/wiki)
 
 [![Shield](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/Board%20with%20OLED.jpg)](https://github.com/srg74/WLED-wemos-shield/wiki)
 
@@ -27,13 +27,13 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 
 - Very easy to configure for your project;
 - Easy to solder components;
-- Level shifter for relaible data signal;
+- Level shifter for reliable data signal;
 - Solder jumpers for flexible configuration;
 - Power selector (e.g 5VDC or 12/24VDC);
-- Can be configured for 1 (data) wire and 2 (data, clock) wires addressable LED strips;
+- Can be configured for 1 (data) wire and 2 (data, clock) wire addressable LED strips;
 - Analog and Digital input for sound reactive compatability;
 - Button option on board;
-- Relay for power saving feature (without disconnecting power from LED strip it still consuming current even if none of LEDs is lit);
+- Relay for power saving feature (without disconnecting power from LED strip it still consumes current even if none of the LEDs are lit);
 - Auxilary power for additional relay or other 5VDC powered devices;
 - I2C connector for OLED display or other devices that might be integrated in a feature;
 - I2S connectivity for ESP32 boards;
