@@ -7,7 +7,7 @@
 
 - [v0.14.0-bl0 builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware) - v0.14.0-bl0 build 2211131
 
-- [v0.14.0 builds audio reactive](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware/AudioReactive) - ESP32 only 0.14.0.5.0 build 2211231
+- [v0.14.0 builds audio reactive](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware/AudioReactive) - ESP32 only 0.14.0.6.0 build 2211242
 
 - [v0.14.0-bl0 builds ESP32-S2, S3, C3](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware/ESP32-S2,S3,C3) - v0.14.0 build 2210271
 
