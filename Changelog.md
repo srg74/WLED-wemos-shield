@@ -31,8 +31,8 @@
 ### v1.5
 
 - Exposed additional pins for I2S microphones. :bangbang: ESP32 boards only :bangbang:
-- Removed header 3 positions labeled AUDIO.
-- Added header 6 position labeled SOUND.
+- Removed 3 position header labeled AUDIO.
+- Added  6 position header labeled SOUND.
 - Added second row of headers for ESP32 board connectivity.
 - [Firmware v0.11_beta](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_wemos_shield/v0.11_beta_2011154) available for testing
 
