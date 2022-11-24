@@ -1,6 +1,6 @@
 # Firmware listing
 
-## Standart bin files
+## Standard bin files
 
 ### All binaries using WLED Wemos universal shield pinout
 
