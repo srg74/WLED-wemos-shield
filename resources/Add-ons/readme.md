@@ -11,9 +11,9 @@
 ![Plug-in module](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/linear_input/Linear_input_add-on.jpg)
 
 - [Order PCB](https://www.pcbway.com/project/shareproject/Audio_input_for_shield_v1_5.html)
-- [Scematic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/linear_input/Sound_reactive_add-on.pdf)
+- [Schematic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/linear_input/Sound_reactive_add-on.pdf)
 - [Parts](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/linear_input/BOM.pdf)
-- [All credits and references for circuits, thanks to Sound reactive fork possible by atuline and his team](https://github.com/atuline/WLED)
+- [All credits and references for circuits. Thanks to atuline and his team for the Sound reactive fork](https://github.com/atuline/WLED)
 
 ![Linear in](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/linear_input/Enclosure%20with%20audio.jpg)
 
@@ -23,7 +23,7 @@
 
 [![Tindie](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png)](https://www.tindie.com/stores/serg74)
 
-- [Scematic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/ics-43434/ics43434_shield.jpg)
+- [Schematic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/ics-43434/ics43434_shield.jpg)
 
 ![Enclosure with mic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/ics-43434/Enclosure%20with%20mic.jpg)
 
@@ -32,7 +32,7 @@
 ![Plug-in module](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/Terminals_add-on%20v2.0.png)
 
 - [Order PCB](https://www.pcbway.com/project/shareproject/Audio_input_for_shield_v1_5.html)
-- [Scematic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/Terminals_add-on.pdf)
+- [Schematic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/Terminals_add-on.pdf)
 - [Parts](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/BOM.xlsx)
 
 ![Screw terminals ](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Add-ons/terminals/Enclosure%20with%20terminals.jpg)
