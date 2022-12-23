@@ -89,7 +89,7 @@ lib_deps = ${esp32.lib_deps}
 }
 ```
 
-**Parttiton file:**
+**Parttiton file for 16mb:**
 
 ```
 # Name,   Type, SubType, Offset,  Size, Flags
