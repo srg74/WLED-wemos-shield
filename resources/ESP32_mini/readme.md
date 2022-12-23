@@ -19,9 +19,9 @@ Current of the ESP32 chip is less than 5 μA, it is particularly well suited for
 - Polyfuse protection
 - Boot and Reset button
 
-[ESP32 mini board pinout](https://github.com/Aircoookie/WLED) ➡️
+[ESP32 mini board pinout](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/ESP32_mini/Resources/ESP32_mini_board_pinout.pdf)<a href=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/ESP32_mini/Resources/ESP32_mini_board_pinout.pdf> ➡️</a>
 
-[ESP32 mini board schematic](https://github.com/atuline/WLED) ➡️
+[ESP32 mini board schematic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/ESP32_mini/Resources/ESP32_mini_board_schematic.pdf)<a href=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/ESP32_mini/Resources/ESP32_mini_board_schematic.pdf> ➡️</a> 
 
 **Platformio build environment:**
 
