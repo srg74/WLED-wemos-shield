@@ -1,6 +1,6 @@
 # ESP32 mini dev board
 
-![](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/ESP32_mini/Resources/ESP32_mini_board1.jpg | width=100)
+<img src="https://github.com/srg74/WLED-wemos-shield/blob/master/resources/ESP32_mini/Resources/ESP32_mini_board1.jpg" width="200" height="200">
 
 This development board features, the powerful ESP-WROOM-32 module, with integrated WiFi and Bluetooth functionality (BR/EDR/BLE). The ESP32 is a chip designed with TSMC ultra-low power management technology.
 
