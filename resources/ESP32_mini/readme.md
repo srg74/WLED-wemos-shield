@@ -1,5 +1,7 @@
 # ESP32 mini dev board
 
+![](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/ESP32_mini/Resources/ESP32_mini_board1.jpg | width=100)
+
 This development board features, the powerful ESP-WROOM-32 module, with integrated WiFi and Bluetooth functionality (BR/EDR/BLE). The ESP32 is a chip designed with TSMC ultra-low power management technology.
 
 Current of the ESP32 chip is less than 5 μA, it is particularly well suited for use with batteries or rechargeable batteries. The ESP32 D1 Mini has a similar pin layout to the conventional D1 Mini ESP8266-12F and is therefore pin compatible with most accessories for it. The proven ESP32-D0WDQ6 chip is located in the core of the developed module.
