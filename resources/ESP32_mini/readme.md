@@ -1,31 +1,7 @@
 # ESP32 mini dev board
 
-| Front view  | Back view |
-| ------------- | ------------- |
-| <img src="https://github.com/srg74/WLED-wemos-shield/blob/master/resources/ESP32_mini/Resources/ESP32_mini_board1.jpg" width="200" height="200">  | <img src="https://github.com/srg74/WLED-wemos-shield/blob/master/resources/ESP32_mini/Resources/ESP32_mini_board2.jpg" width="200" height="200">  |
 
-
-
-This development board features, the powerful ESP-WROOM-32 module, with integrated WiFi and Bluetooth functionality (BR/EDR/BLE). The ESP32 is a chip designed with TSMC ultra-low power management technology.
-
-Current of the ESP32 chip is less than 5 μA, it is particularly well suited for use with batteries or rechargeable batteries. The ESP32 D1 Mini has a similar pin layout to the conventional D1 Mini ESP8266-12F and is therefore pin compatible with most accessories for it. The proven ESP32-D0WDQ6 chip is located in the core of the developed module.
-
-**Specifications:**
-
-- Module: ESP32-Wroom-32
-- Chipset: ESP32-D0WDQ6
-- USB-TTL CH304
-- storage space: 16 MB !!!
-- Bt V4.2 (BR/EDR/BLE)
-- built-in PCB antenna
-- OM: 448 KB - SRAM: 520 KB
-- WiFi: 2.4 GHz
-- Operating voltage: 5V DC
-- CH340 USB-to-serial (USB to UART) controller
-- Polyfuse protection
-- Boot and Reset button
-
-[ESP32 mini board pinout](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/ESP32_mini/Resources/ESP32_mini_board_pinout.pdf)<a href=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/ESP32_mini/Resources/ESP32_mini_board_pinout.pdf> ➡️</a>
+[All docs moved to](https://github.com/srg74/ESP32-mini-SerKo)<a href=https://github.com/srg74/ESP32-mini-SerKo> ➡️</a>
 
 [ESP32 mini board schematic](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/ESP32_mini/Resources/ESP32_mini_board_schematic.pdf)<a href=https://github.com/srg74/WLED-wemos-shield/blob/master/resources/ESP32_mini/Resources/ESP32_mini_board_schematic.pdf> ➡️</a> 
 
