@@ -1,19 +1,8 @@
-# Beta for testing. Multiple usermods
+# Development fork @blazoncek
 
-## WLED ESP flasher
-- [2210130 build](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/WLED_%20ESP_Flasher) - for MacOS, Windows.
+- [v0.14.0-bl0 builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/@blazoncek/v0.14.0-bl0) - v0.14.0-bl0 build 2212091
 
-## GUI configurable usermods
-
-- [v0.14.0-bl0 builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware) - v0.14.0-bl0 build 2212091
-
-- [v0.14.0-b1.15 builds audio reactive](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware/AudioReactive) - ESP32 only v0.14.0-b1.15 build 2301101
-
-- [v0.14.0-bl0 builds ESP32-S2, S3, C3](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental/Firmware/ESP32-S2,S3,C3) - v0.14.0-bl0 build 2212091
-
-All builds are from https://github.com/blazoncek/WLED/tree/segment-api with various usermods. Mod name is included in the file name.
-
-```
+```text
 # Example for a build
 [env:esp32_Dallas_sensor_PWM_fan_display_rotary_ambient_light_sensor_sound_mods]
 board = esp32dev

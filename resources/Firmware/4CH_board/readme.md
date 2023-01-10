@@ -1,6 +1,9 @@
-# [ENV]
+# [ENV for 4CH board]
 
-```[env:esp32_4ch_fan_display_rotary_relays]
+- build 2207221
+
+```text
+[env:esp32_4ch_dallas_fan_display_rotary_relays]
 board = esp32dev
 platform = espressif32@3.2
 board_build.partitions = tools/WLED_ESP32_4MB_1MB_FS.csv
@@ -44,8 +47,3 @@ lib_deps = ${esp32.lib_deps}
   OneWire@~2.3.6
   U8g2@~2.28.8
 ```
-
-- build 2207221
-
-
- 
