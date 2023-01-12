@@ -44,7 +44,8 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 
 ## Firmware used
 
-- [@Aircookie repo firmware builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware) - WLED repository fork with changes to use with shield
+- [@Aircookie repo firmware builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/%40Aircoookie) - WLED repository fork with changes to use with shield
 - [WLED repository](https://github.com/Aircoookie/WLED) - Aircoookie original WLED repository
-- [WLED repository](https://github.com/atuline/WLED) - Sound reactive WLED fork repository
-- [@blazoncek fork firmware builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/experimental) - Custom bin files for various configurations
+- [Atuline WLED fork](https://github.com/atuline/WLED) - Audio reactive WLED fork repository
+- [MoonModules WLED fork](https://github.com/MoonModules/WLED) - Enhenced Audio reactive WLED fork repository
+- [@blazoncek fork firmware builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/%40blazoncek) - Custom bin files for various configurations
