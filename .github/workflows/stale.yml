@@ -18,10 +18,12 @@ jobs:
       pull-requests: write
 
     steps:
-    - uses: actions/stale@v5
+    - uses: actions/stale@v7
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        stale-issue-message: 'Stale issue message'
-        stale-pr-message: 'Stale pull request message'
+        stale-issue-message: 'Message to comment on stale issues. If none provided, will not mark issues stale'
+        stale-pr-message: 'Message to comment on stale PRs. If none provided, will not mark PRs stale'
         stale-issue-label: 'no-issue-activity'
         stale-pr-label: 'no-pr-activity'
+        days-before-stale: 15
+        days-before-close: 2
