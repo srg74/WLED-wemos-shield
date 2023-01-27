@@ -16,7 +16,7 @@
 
 ```diff
 - WARNING!!! Please save your presets.json before updating firmware!
-- Updating OTA from firmware >v0.13 to newer will cause corraption due to difference in firmware structure. Please erase flash memory before uploading new firmware.
+- Updating OTA from firmware >v0.13 to newer will cause corruption due to difference in firmware structure. Please erase flash memory before uploading new firmware.
 
 ```
 http://IP_ADDRESS/edit
