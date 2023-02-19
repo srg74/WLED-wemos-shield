@@ -42,10 +42,18 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 - Optional I2C sensors;
 - Components on board for 4 or 3 pin PWM fan circuit.
 
-## Firmware used
+## Firmware
+
+### Ready to use bin files
 
 - [@Aircookie repo firmware builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/%40Aircoookie) - WLED repository fork with changes to use with shield
+- [@blazoncek fork firmware builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/%40blazoncek) - Custom development bin files for various configurations
+- [@Atuline fork firmware builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/%40Atuline) - Sound reactive bin files for various configurations
+- [@Moonmodules fork firmware builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/%40MoonModules) - Advanced sound reactive bin files for various configurations
+
+### Resources used for bin files compiling
+
 - [WLED repository](https://github.com/Aircoookie/WLED) - Aircoookie original WLED repository
-- [Atuline WLED fork](https://github.com/atuline/WLED) - Audio reactive WLED fork repository
-- [MoonModules WLED fork](https://github.com/MoonModules/WLED) - Enhenced Audio reactive WLED fork repository
-- [@blazoncek fork firmware builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/%40blazoncek) - Custom bin files for various configurations
+- [Atuline WLED fork](https://github.com/atuline/WLED) - Audio reactive WLED fork
+- [MoonModules WLED fork](https://github.com/MoonModules/WLED) - Enhenced Audio reactive WLED fork 
+- [WLED dev repository](https://github.com/blazoncek/WLED) - Blazoncek advanced development WLED fork
