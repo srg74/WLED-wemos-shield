@@ -11,7 +11,7 @@
 
 ## Versions
 
-- [v0.14.0-b2](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/@Aircoookie/v0.14.0-b2) - Version v0.14.0-b2 build 2303311
+- [v0.14.0-b2](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/@Aircoookie/v0.14.0-b2) - Version v0.14.0-b2 build 2304111
 - [v0.13.3](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/@Aircoookie/v0.13.3) - Version v0.13.3 build 2210150
 
 ```diff
