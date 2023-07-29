@@ -1,13 +1,8 @@
 # Original WLED firmware BIN files
 
-## Standard bin files
-
-- Example: WLED_VERSION_XX_esp8266_no_mods.bin, file for ESP8266 chip modules. Generic, without usermods.
-- Example: WLED_VERSION_XX_esp32_no_mods.bin, file for ESP32 chip modules. Generic, without usermods.
-
 ## Files with precompiled usermods
 
-- Example: WLED_VERSION_XX_esp32_staircase_mod.bin, file for ESP32 chip modules. With staircase usermod.
+- Example: WLEDMM_VERSION_XX_esp32_staircase_mod.bin, file for ESP32 chip modules. With staircase usermod.
 
 ## Versions
 
