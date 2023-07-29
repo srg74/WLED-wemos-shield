@@ -2,7 +2,7 @@
 
 ## Files with precompiled usermods
 
-- Example: WLEDMM_VERSION_XX_esp32_staircase_mod.bin, file for ESP32 chip modules. With staircase usermod.
+- Example: WLED_VERSION_XX_esp32_staircase_mod.bin, file for ESP32 chip modules. With staircase usermod.
 
 ## Versions
 
