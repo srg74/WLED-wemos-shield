@@ -13,3 +13,4 @@
 ***
 ![PCB](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/Mini_shield_AUX.jpg)
 
+- [Pinout for AUX mini shield](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/mini_shield/aux-shield.md)
