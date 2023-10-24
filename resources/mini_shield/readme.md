@@ -9,3 +9,7 @@
 
 ***
 ![PCB](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/Mini_shield_v1.2.jpg)
+
+***
+![PCB](https://github.com/srg74/WLED-wemos-shield/blob/master/resources/Images/Mini_shield_AUX.jpg)
+
