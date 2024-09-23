@@ -1,6 +1,6 @@
 # Development fork @blazoncek
 
-- [v0.15.0-b4 builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/@blazoncek/latest) - v0.15.0-b4 build 2409150
+- [v0.15.0-b5 builds](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/@blazoncek/latest) - v0.15.0-b5 build 2409230
 
 ```text
 # Example for a build
