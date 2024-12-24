@@ -7,7 +7,7 @@
 ## Versions
 
 - [v0.15.0 release](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/@Aircoookie/Latest) - Version v0.15.0 release build 2412190
-- [v0.16.0-dev after-release](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/@Aircoookie/Dev) - Version v0.16.0-dev build 2412220
+- [v0.16.0-dev after-release](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/@Aircoookie/Dev) - Version v0.16.0-dev build 2412230
 
 ```diff
 - WARNING!!! Please save your presets.json before updating firmware!
