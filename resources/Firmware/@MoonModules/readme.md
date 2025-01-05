@@ -2,6 +2,6 @@
 
 [Quick start guide and firmware documentation from MoonModules fork repo](https://mm.kno.wled.ge)
 
-[ESP32 Audio reactive firmware](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/@MoonModules/latest) - WLEDMM_14.5.1 build 2412200
+[ESP32 Audio reactive firmware](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/@MoonModules/latest) - WLEDMM_14.5.1 build 2501030
 
 [bin files naming explanation](https://mm.kno.wled.ge/moonmodules/Installing-and-Compiling/#configurations)
