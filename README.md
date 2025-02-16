@@ -3,7 +3,7 @@
 [![release](https://img.shields.io/github/v/release/srg74/WLED-wemos-shield)](https://img.shields.io/github/v/release/srg74/WLED-wemos-shield)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/srg74/WLED-wemos-shield/blob/master/LICENSE)
 [![custom firmware](https://img.shields.io/static/v1?label=Custom&message=firmware&color=blue&style=flat-square)](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware)
-[![Official releases](https://img.shields.io/static/v1?label=WLED&message=firmware&color=green&style=flat-square)](https://github.com/Aircoookie/WLED/releases)
+[![Official releases](https://img.shields.io/static/v1?label=WLED&message=firmware&color=green&style=flat-square)](https://github.com/wled-dev//WLED/releases)
 [![WLED app](https://img.shields.io/static/v1?label=WLED&message=app&color=green&style=flat-square)](https://github.com/Aircoookie/WLED-App)
 [![Desktop app](https://img.shields.io/static/v1?label=WLED&message=Desktop-app&color=violet&style=flat-square)](https://github.com/WoodyLetsCode/WLED-GUI/releases/)
 
@@ -53,7 +53,7 @@ I appreciate your support for my project! [![donate](https://www.paypalobjects.c
 
 ### Resources used for bin files compiling
 
-- [WLED repository](https://github.com/Aircoookie/WLED) - Aircoookie original WLED repository
+- [WLED repository](https://github.com/wled-dev/WLED) - Aircoookie original WLED repository
 - [Atuline WLED fork](https://github.com/atuline/WLED) - Audio reactive WLED fork
 - [MoonModules WLED fork](https://github.com/MoonModules/WLED) - Enhenced Audio reactive WLED fork 
 - [WLED dev repository](https://github.com/blazoncek/WLED) - Blazoncek advanced development WLED fork
