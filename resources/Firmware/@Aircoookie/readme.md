@@ -6,7 +6,7 @@
 
 ## Versions
 
-- [v0.15.2 beta release](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/@Aircoookie/Latest) - Version v0.1.2 beta release build 2505060
+- [v0.15.2 beta release](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/@Aircoookie/Latest) - Version v0.1.2 beta release build 2506030
 - [v0.16.0-alpha dev](https://github.com/srg74/WLED-wemos-shield/tree/master/resources/Firmware/@Aircoookie/Dev) - Version v0.16.0-alpha build 2506010
 
 ```diff
